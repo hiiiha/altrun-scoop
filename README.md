@@ -1,5 +1,7 @@
 # Please don't create issues or PRs here as they will not be resolved or merged.
 
+This is not an official bucket for altrun.
+
 # Scoop Bucket Template
 
 <!-- Uncomment the following line after replacing placeholders -->
